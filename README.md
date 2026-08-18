@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.svg" alt="Banner roxo com tema místico" width="100%" />
+</p>
 
-<!--
-**maxcedup-art/maxcedup-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">E aí, eu sou Max </h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Minha linguagem favorita HTML/CSS.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Sobre mim
+
+Tô aprendendo a programar e quero testar um pouco de tudo antes de decidir onde vou me encontrar.
+
+- Curto entender como as coisas funcionam por dentro.
+- Não gosto muito de coisas que fazem eu bater cabeça.
+- Esse perfil é tipo um diário do que eu faço.
+
+---
+ ## Mecho as vezes
+
+- Python
+- JavaScript
+- HTML e CSS
+- C#
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxcedup-art&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Sequência de contribuições" />
+</p>
+
+---
+
+<p align="center">
+  <em>Se parecer meio incompleto, é porque tá e vai continuar assim por um tempo.</em>
+</p>
