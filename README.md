@@ -34,7 +34,7 @@ Tô aprendendo a programar e quero testar um pouco de tudo antes de decidir onde
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Sequência de contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxcedup-art&theme=tokyonight" alt="Sequência de contribuições" />
 </p>
 
 ---
