@@ -28,16 +28,12 @@ Tô aprendendo a programar e quero testar um pouco de tudo antes de decidir onde
 ---
 
 ## Estatísticas
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxcedup-art&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxcedup-art&theme=tokyonight" alt="Sequência de contribuições" />
 </p>
-
----
 
 <p align="center">
   <em>Se parecer meio incompleto, é porque tá e vai continuar assim por um tempo.</em>
