@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Banner roxo com tema místico" width="100%" />
+  <img src="./banner.jpg" alt="Banner roxo com tema místico" width="100%" />
 </p>
 
 <h1 align="center">E aí, eu sou Max </h1>
